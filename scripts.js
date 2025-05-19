@@ -27,3 +27,5 @@ const formatData = (data, key) =>
   data.map((item) => `${key}: ${item[key]}`).join(", ");
 
 module.exports = { fetchData, filterData, calculateAverage, formatData };
+
+//comentariooooooooooooooooooooooooo
