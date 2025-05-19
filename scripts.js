@@ -29,3 +29,4 @@ const formatData = (data, key) =>
 module.exports = { fetchData, filterData, calculateAverage, formatData };
 
 //comentariooooooooooooooooooooooooo
+//comit comit comit
